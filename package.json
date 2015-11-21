@@ -1,0 +1,20 @@
+{
+  "name": "react-native-share",
+  "version": "0.1.0",
+  "description": "A react-native wrapper for sharing content.",
+  "author": {
+    "name": "Satyajit Sahoo",
+    "email": "satyajit.happy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:satya164/react-native-share.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "share"
+  ]
+}
