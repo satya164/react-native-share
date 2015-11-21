@@ -1,7 +1,5 @@
 package com.lrnapp.share;
 
-import android.content.Context;
-
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
 import com.facebook.react.bridge.NativeModule;
@@ -14,15 +12,9 @@ import java.util.List;
 
 public class SharePackage implements ReactPackage {
 
-    private final Context mActivityContext;
-
-    public SharePackage(Context activityContext) {
-        mActivityContext = activityContext;
-    }
-
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
-        return Arrays.<NativeModule>asList(new ShareModule(reactContext, mActivityContext));
+        return Arrays.<NativeModule>asList(new ShareModule(reactContext));
     }
 
     @Override
