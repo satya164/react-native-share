@@ -1,67 +1,20 @@
 {
-  "_args": [
-    [
-      "github:satya164/react-native-share",
-      "/Users/satya/Workspace/Projects/lrn"
-    ]
-  ],
-  "_from": "satya164/react-native-share",
-  "_id": "react-native-share@0.1.0",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/react-native-share",
-  "_phantomChildren": {},
-  "_requested": {
-    "hosted": {
-      "directUrl": "https://raw.githubusercontent.com/satya164/react-native-share/master/package.json",
-      "gitUrl": "git://github.com/satya164/react-native-share.git",
-      "httpsUrl": "git+https://github.com/satya164/react-native-share.git",
-      "shortcut": "github:satya164/react-native-share",
-      "ssh": "git@github.com:satya164/react-native-share.git",
-      "sshUrl": "git+ssh://git@github.com/satya164/react-native-share.git",
-      "type": "github"
-    },
-    "name": null,
-    "raw": "github:satya164/react-native-share",
-    "rawSpec": "github:satya164/react-native-share",
-    "scope": null,
-    "spec": "github:satya164/react-native-share",
-    "type": "hosted"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "git+ssh://git@github.com/satya164/react-native-share.git#d4ed5c49d8a14b4658023bd7eb70ae5652a0116b",
-  "_shasum": "b2424a6fa1f25f0fb7e57ec39bbd1650c98b3825",
-  "_shrinkwrap": null,
-  "_spec": "github:satya164/react-native-share",
-  "_where": "/Users/satya/Workspace/Projects/lrn",
-  "author": {
-    "email": "satyajit.happy@gmail.com",
-    "name": "Satyajit Sahoo"
-  },
-  "bugs": {
-    "url": "https://github.com/satya164/react-native-share/issues"
-  },
-  "dependencies": {},
-  "description": "A react-native wrapper for sharing content.",
-  "devDependencies": {},
-  "gitHead": "d4ed5c49d8a14b4658023bd7eb70ae5652a0116b",
-  "homepage": "https://github.com/satya164/react-native-share#readme",
-  "keywords": [
-    "android",
-    "react",
-    "react-component",
-    "react-native",
-    "share"
-  ],
   "name": "react-native-share",
-  "optionalDependencies": {},
-  "readme": "# `react-native-share`\n",
-  "readmeFilename": "README.md",
+  "version": "0.1.0",
+  "description": "A react-native wrapper for sharing content.",
+  "author": {
+    "name": "Satyajit Sahoo",
+    "email": "satyajit.happy@gmail.com"
+  },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/satya164/react-native-share.git"
+    "url": "git@github.com:satya164/react-native-share.git"
   },
-  "version": "0.1.0"
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "share"
+  ]
 }
